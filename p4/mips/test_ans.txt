@@ -1,0 +1,16 @@
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+Time resolution is 1 ps
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+@00003000: $16 <= 00000064
+@00003004: *00000ffc <= 00000064
+@00003008: $17 <= 00000ffc
+@0000300c: $17 <= 00000064
+@00003010: *00000000 <= 00000064
+@00003014: $18 <= 00000064
+@00003018: $31 <= 0000301c
+@00003024: $19 <= 000000c8
+@00003028: $20 <= 0000157c
+@0000301c: $ 3 <= 000014b4
+
